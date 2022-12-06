@@ -1,0 +1,17 @@
+body{
+	background-color: #3E363F;
+	font-family: Arial;
+}
+
+a{
+	color:white;
+}
+
+a:hover{
+	color:lightgreen;
+}
+
+H1,H3{
+	color:white;
+}
+
